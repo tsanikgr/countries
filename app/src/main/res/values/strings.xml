@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Countries</string>
+    <string name="settings_use_recycler">Use recycler view</string>
+    <string name="settings_use_list">Use list view</string>
+    <string name="title_country_list">Countries</string>
+    <string name="title_country_detail">Country</string>
+    <string name="toast_using_recycler">Using recycler view</string>
+    <string name="toast_using_list_view">Using list view</string>
+    <string name="downloading_message">Downloading..</string>
+    <string name="textView_region_title">Region</string>
+    <string name="textView_population_title">Population</string>
+    <string name="textView_borders_title">Borders</string>
+    <string name="textView_gini_title">Income Inequality</string>
+    <string name="textView_area_title">Area</string>
+    <string name="textView_currency_title">Currency</string>
+    <string name="textView_capital_title">Capital</string>
+    <string name="textView_subRegion_title">Sub-region</string>
+    <string name="textView_timezone_title">Timezones</string>
+    <string name="textView_longlat_title">Longitude/Latitude</string>
+    <string name="network_error_message">No network.</string>
+    <string name="country_flag">Country flag</string>
+</resources>

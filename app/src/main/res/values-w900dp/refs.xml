@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    Layout alias to replace the single-pane version of the layout with a
+    two-pane version
+    -->
+    <item name="activity_countries_list" type="layout">@layout/twopane</item>
+</resources>

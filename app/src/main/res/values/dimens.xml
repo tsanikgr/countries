@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="app_bar_height">200dp</dimen>
+    <dimen name="flag_image_height">250dp</dimen>
+    <dimen name="country_name_margin">48dp</dimen>
+    <dimen name="item_width">320dp</dimen>
+    <dimen name="detail_vertical_spacing">10dp</dimen>
+</resources>
